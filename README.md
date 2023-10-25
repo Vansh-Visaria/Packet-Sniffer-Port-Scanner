@@ -16,7 +16,7 @@ Real-time packet visualization and inspection.
 
 # How to Use:
 
-1)Clone the repository
+1) Clone the repository: git clone https://github.com/pAiNop23/Packet-Sniffer-Port-Scanner.git
 2) Navigate to the project folder: cd Packet-Sniffer-Port-Scanner
 3) Run the tool: main.py along with scapy library 
 4) Feel free to contribute, report issues, or suggest enhancements. Your feedback is valuable!
